@@ -1,0 +1,12 @@
+{
+  "buy-command": "buy",
+  "use-buy-gui": true,
+  "collect-player-stats": true,
+  "send-stats-interval": 5,
+  "debug": false,
+  "auth-key": "92f0f39ed77d971796c278d67ab99890ab83ad05668bf4e314",
+  "https": true,
+  "auto-update": true,
+  "logging-enabled": true,
+  "api-url": "://api.enjin.com/api/v1"
+}
